@@ -1,0 +1,10 @@
+# 앱이 실행 중에 만드는 데이터 파일
+shopping_list.json
+shopping_list.json.tmp
+
+# Python 캐시
+__pycache__/
+
+# 로컬 도구 설정·로그
+.claude/
+.playwright-mcp/
